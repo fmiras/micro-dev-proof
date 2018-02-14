@@ -1,12 +1,16 @@
 {
-  "name": "micro-proof",
-  "description": "",
+  "name": "micro-dev-proof",
+  "description": "Test of micro-dev programatically usage",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=production node .",
     "dev": "node ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "micro": "9.1.0"
+  },
+  "devDependencies": {
+    "micro-dev": "2.2.0"
+  }
 }
