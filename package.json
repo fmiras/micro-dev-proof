@@ -1,0 +1,12 @@
+{
+  "name": "micro-proof",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production node .",
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
